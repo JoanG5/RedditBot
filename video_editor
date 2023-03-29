@@ -1,6 +1,6 @@
 from moviepy.editor import *
 
-video = VideoFileClip('MinecraftStockVid.mp4')
+video = VideoFileClip('#.mp4')
 
 video = video.subclip(0,17)
 
